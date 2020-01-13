@@ -17,5 +17,4 @@ const dogBreeder = (name, age, ...rest) => {
     return dog;
 }
 
-
 console.log(dogBreeder('Snoopy', 3))
